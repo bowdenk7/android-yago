@@ -23,7 +23,7 @@ This application is developed on Phonegap/Cordova.
     -Open the console window and run
        c:/> npm install -g cordova
 ###6.Install Phonegap
-     -On the same window run
+     -On the same window, run
         c:\>npm install -g phonegap
 #Usage
 ###1.Creating working project

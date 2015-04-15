@@ -11,7 +11,7 @@ This application is developed on Phonegap/Cordova.
      -Downoad and install Apache ANT from  http://mirror.tcpdiag.net/apache//ant/binaries/apache-ant-1.9.4-bin.zip.
      -Add Path to the /bin folder to the end of the PATH variable.
 ###3.Download  Android SDK.
-     -Download and install the latest Android SDK from http://developer.android.com/sdk/index.html#Other.
+     -Download and install the latest Android SDK from [http://developer.android.com/sdk/index.html#Other].
      -Open environment variables and add both the full path of adt-bundle/sdk/platform-tools/ and adt-bundle/sdk/tools/ to the end of path variable.
      -Open the console and run android.It should provide a list of targets to install.
      -Open the SDK manager and install version 19-22.

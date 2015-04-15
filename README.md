@@ -45,7 +45,7 @@ This application is developed on Phonegap/Cordova.
      -Run on device
       c:/> cordova run android. 
 ###5.Further information
-     -See [documentation](http://docs.phonegap.com/en/4.0.0/index.html)
+      -See [documentation] (http://docs.phonegap.com/en/4.0.0/index.html)
         
   
    

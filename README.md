@@ -35,7 +35,7 @@ This application is developed on Phonegap/Cordova.
 ###2.Installing project plugins
      -Open the console and run
       c:/>cordova plugin add <plugin_directory> e.g org.apache.cordova.device
-     -To find all plugins,visit the cordova pugin registry(http://plugins.cordova.io/#/)  
+     -To find all plugins,visit the cordova pugin registry http://plugins.cordova.io/#/  
 ###3.Build the application
      -Open the console and run
       c:/>cordova build android
@@ -45,7 +45,7 @@ This application is developed on Phonegap/Cordova.
      -Run on device
       c:/> cordova run android. 
 ###5.Further information
-      -See [documentation] (http://docs.phonegap.com/en/4.0.0/index.html)
+      -See documentation http://docs.phonegap.com/en/4.0.0/index.html
         
   
    

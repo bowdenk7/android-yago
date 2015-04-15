@@ -33,9 +33,20 @@ This application is developed on Phonegap/Cordova.
       Nb:Creates the application projects on the selected location with the requisite project folders. 
     -To navigate to the app run
        c:/>cd my-application
+  2.Installing project plugins
+    -Open the console and run
+      c:/>cordova plugin add <plugin_directory> e.g org.apache.cordova.device
+    -To find all plugins,visit the cordova pugin registryhttp://plugins.cordova.io/#/  
   2.Build the application
     -Open the console and run
        c:/>cordova build android
+  3.Running the Project
+    -Run on the emulator
+      c:/>cordova emulate android.
+    -Run on device
+      c:/> cordova run android. 
+  4.Further information
+    -See documentation http://docs.phonegap.com/en/4.0.0/index.html
         
   
    

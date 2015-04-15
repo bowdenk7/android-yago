@@ -25,6 +25,7 @@ c:\xampp\htdocs\yago\platforms\android\ant-build\res\drawable-port-xhdpi\screen.
 c:\xampp\htdocs\yago\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www \
 c:\xampp\htdocs\yago\platforms\android\assets\_where-is-www.txt \
+c:\xampp\htdocs\yago\platforms\android\assets\www\age-verify.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova_plugins.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css \
@@ -64,6 +65,7 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\font_awesome\fon
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\font_awesome\fonts\fontawesome-webfont.woff \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\font_awesome\fonts\FontAwesome.otf \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\ionicons\css \
+c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\ionicons\custom.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\ionicons\fonts \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\ionicons\css\ionicons.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css\ionicons\css\ionicons.min.css \

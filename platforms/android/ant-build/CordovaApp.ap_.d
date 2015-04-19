@@ -10,6 +10,7 @@ c:\xampp\htdocs\yago\platforms\android\res\drawable-port-ldpi\screen.png \
 c:\xampp\htdocs\yago\platforms\android\res\drawable-port-mdpi\screen.png \
 c:\xampp\htdocs\yago\platforms\android\res\drawable-port-xhdpi\screen.png \
 c:\xampp\htdocs\yago\platforms\android\res\drawable-xxhdpi\icon.png \
+c:\xampp\htdocs\yago\platforms\android\res\values\facebookconnect.xml \
 c:\xampp\htdocs\yago\platforms\android\res\values\strings.xml \
 c:\xampp\htdocs\yago\platforms\android\res\xml\config.xml \
 c:\xampp\htdocs\yago\platforms\android\ant-build\res\drawable\icon.png \
@@ -25,10 +26,10 @@ c:\xampp\htdocs\yago\platforms\android\ant-build\res\drawable-port-xhdpi\screen.
 c:\xampp\htdocs\yago\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www \
 c:\xampp\htdocs\yago\platforms\android\assets\_where-is-www.txt \
-c:\xampp\htdocs\yago\platforms\android\assets\www\age-verify.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova_plugins.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css \
+c:\xampp\htdocs\yago\platforms\android\assets\www\districts.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\icon.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img \
 c:\xampp\htdocs\yago\platforms\android\assets\www\index.html \
@@ -38,8 +39,135 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\res \
 c:\xampp\htdocs\yago\platforms\android\assets\www\spec \
 c:\xampp\htdocs\yago\platforms\android\assets\www\spec.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css\index.css \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6 \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7 \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\logo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\BlackTxtUnderlay.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\facebook button outline.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\facebookbutton.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\facebookicon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\Login with Facebook.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\Yago.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\21 button outline copy.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\21 button outline.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\21years.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Background forward.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Background X.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Background.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\BlackTxtUnderlay copy.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\BlackTxtUnderlay.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\I am 21 years or older.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\I am under 21 years.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Under21.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\x.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Yago.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\_.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\StandardCardSize.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\TopRightCardSize.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Clock.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Three Dots.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Thumbs Up.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\20.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\36.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\40.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\5.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Background.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Camera.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\feedbutton.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Free Bud Light Park Bench Buckhead.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Free Cover Tongue _ Groove.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Header Bar.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\HighlightedTab.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\moneybag.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\profileicon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Promotion          Value.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Promotions.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Send Promo Button.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\tab.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\TabDivider.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Tap to Redeem background.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Tap to Redeem Button.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\tap to redeem.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\TextRectClear.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\VIP Upgrade Gold Room.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\Yago Points.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\yagoicon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\_.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\_DS_Store \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\16.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\20.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Background.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Balance After Purchase.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\BottomClearOverlay.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Camera.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Clock.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\FeedButton1.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Free Cover Tongue _ Groove.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Header Bar.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Header.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\HighlightedTab.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Lindbergh City Center_ Main St NE Atlanta_ GA 30324.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\LocationIcon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\MidClearOverlay.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\MoneyBag.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Open Today 9_00 PM - 2_30 AM.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Profile Icon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Promotion           Cost.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Promotions Options.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Promotions.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Rectangle 2.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Send promo to friend outline.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Send promo to friend _.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tab Bar.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tap to Redeem in Front of Venue Staff.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tap to Redeem Outline.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\TopClearOverlay.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Venue Staff.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\_ copy.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\_.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\$$.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\36.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\5.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Alex.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Background _5.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\BlackUnderlayInvFriends.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Camera.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\facebook.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\facebookicon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\FeedButton1.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Header Bar.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Header.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\instagram.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\instagramicon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Invite Friends  to Yago   _.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Invite Friends Button(2).png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\invitefriends.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\InviteFriendsOutline.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\lifetimescore.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Profile Icon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Rectangle 2.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Rectangle 5.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Shape 1.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Shape 2.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Social Media Icones.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\Tab Bar.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\twitter.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\twittericon.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\YagoLogo.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch7\_.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\js\facebook.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\js\index.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib\onsen\css \
@@ -190,4 +318,18 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-de
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-purple-theme.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-sunshine-theme.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components.css \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-photos-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-photos.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\clubs.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\maps.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotion-venue-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotion-venue.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\redeem-promotion.html \
 c:\xampp\htdocs\yago\platforms\android\ant-build\AndroidManifest.xml \

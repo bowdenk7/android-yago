@@ -2,15 +2,24 @@
 <html>
   <head>
     <meta charset="utf-8">
-
+     <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
     <link rel="stylesheet" href="lib/onsen/css/onsenui.css">
-    <link rel="stylesheet" href="lib/onsen/css/onsen-css-components-blue-basic-theme.css">
+    <link rel="stylesheet" href="lib/onsen/css/onsen-css-components-default.css">
     <link rel="stylesheet" href="styles/app.css">
-
     <script src="lib/onsen/js/angular/angular.js"></script>
     <script src="lib/onsen/js/onsenui.js"></script>
     <script>
       ons.bootstrap();
+      document.addEventListener('deviceready',onReady,false);
+      function onReady()
+      {
+        console.log('device is ready');
+      }
       //alert user before login
       function alert_user()
       {
@@ -21,34 +30,40 @@
           animation: 'default', // or 'none'
          });
       } 
+      
     </script>
+    <script src="cordova.js"></script>
+    <script src="js/facebook.js"></script> 
   </head>
   <body>
-    <ons-navigator title="Navigator" var="myNavigator">
-      <ons-page>
-        <div class="yago-logo">
-          <h2 class="center">Yago</h2>
+    <ons-navigator animation="slide"  var="myNavigator">
+      <ons-page modifier="full_bg">
+        
+        <div class="logo-container">
+          <img class="yago-logo" src="img/launch1/YagoLogo.png" />
+          <img class="yago-logo" src="img/launch1/Yago.png" />
         </div>
+        
         <div class="age-verify">
           <br><br>
-          <ons-button modifier="large" onClick="alert_user()" class="allowed-age"><i></i>I am Under 21</ons-button>
-          <ons-button modifier="large" onClick="myNavigator.pushPage('facebook-login.html',{animation:'slide'})" class="disallowed-age"><i></i>I am 21 years or older</ons-button>
+          <img onClick="alert_user()" class="allowed-age" src="img/launch2/21years.png" />
+          <img onClick="myNavigator.pushPage('facebook-login.html')" class="disallowed-age" src="img/launch2/Under21.png" />
           <br><br>
         </div>
       </ons-page>
     </ons-navigator>
     <ons-template id="facebook-login.html">
-       <ons-page on-device-backbutton="myNavigator.popPage()">
-         <div class="yago-logo">
-           <h2 class="center">Yago</h2>
+       <ons-page modifier="full_bg" on-device-backbutton="myNavigator.popPage()">
+         <div class="logo-container">
+           <img class="yago-logo" src="img/launch1/YagoLogo.png" />
+          <img class="yago-logo" src="img/launch1/Yago.png" />
          </div>
          <div class="facebook-login">
             <br><br>
-            <ons-button modifier="large" class="login-button"><i></i>Login with Facebook</ons-button>
+            <img onClick="myNavigator.pushPage('districts.html')" class="login-button" src="img/launch1/facebookbutton.png" />
             <br><br>
          </div>
        </ons-page>
     </ons-template>
-    </html>
   </body>
 </html>

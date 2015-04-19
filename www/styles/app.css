@@ -1,14 +1,25 @@
-.left {
-	text-align: left;
+/* background image */
+.page--full_bg__background {
+    background: url('../img/launch2/Background.png');
+}
+.page-full_bg > .navigation-bar {
+    background-color: transparent; 
 }
 /* Age verification and Authentication styling */
+.logo-container
+{
+  width: 50%;
+  margin: 60px auto 0;
+}
 .yago-logo
 {
-	text-align: center;
-	width: 80%;
-	margin:60px auto 0;
+	width: 100%;
 }
-.center
+.red
+{
+   background-color: red;
+}
+.center-text
 {
 	text-align: center;
 }
@@ -26,4 +37,72 @@
 .allowed-age,.disallowed-age,.login-button {
   width: 100%;
   margin: 20px 0 auto;
+}
+/* Tab styling */
+.tab-icon
+{
+  height: 100%;
+  width: 30%;
+  margin: 0 auto;
+}
+/*}
+.tab-bar
+{
+  background: url('img/launch5/tab.png');
+}
+*/
+/* Profile activity styling */
+.score-container
+{
+  width: 50%;
+  margin:5% auto 0;
+}
+.social-media-icons
+{
+  width: 80%;
+  margin: 60px auto 0;
+}
+.social-label
+{
+ text-align: center;
+ font-size: 12px;
+}
+.icon-container
+{
+  width:20%;
+  float: left;
+  padding: 6%;
+}
+.social-icon
+{
+  width:100%;
+  padding: 1%;
+}
+.invite-button
+{
+  width: 80%;
+  margin: 50% auto 0;
+}
+.invite-friends-button
+{
+  width: 100%;
+}
+.score
+{
+  width:100%;
+}
+/* feed styles*/
+ .tab-title
+{
+  position: relative;
+  font-weight: 500;
+  top: -9px;
+  font-size: 20px;
+  font-family: Lato;
+}
+.bar-logo
+{
+  padding-top: 10px;
+  width: 40px;
+  height: 30px;
 }

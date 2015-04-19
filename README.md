@@ -1,5 +1,6 @@
 # Yago Android Mobile App
 This application is developed on Phonegap/Cordova.
+HTML5 Framework Used Onsen UI http://onsen.io/guide/getting_started.html
 #Phonegap Installation
 ###1.Download and Install Java.
      -Download and install the recent release of the Java SDK.
@@ -23,7 +24,7 @@ This application is developed on Phonegap/Cordova.
     -Open the console window and run
        c:/> npm install -g cordova
 ###6.Install Phonegap
-     -On the same window run
+     -On the same window, run
         c:\>npm install -g phonegap
 #Usage
 ###1.Creating working project

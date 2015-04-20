@@ -5,6 +5,7 @@
 .page-full_bg > .navigation-bar {
     background-color: transparent; 
 }
+
 /* Age verification and Authentication styling */
 .logo-container
 {
@@ -41,16 +42,24 @@
 /* Tab styling */
 .tab-icon
 {
-  height: 100%;
-  width: 30%;
-  margin: 0 auto;
+  height: 30px;
+  width: 30px;
+  margin: 8px 0 auto;
 }
-/*}
 .tab-bar
 {
-  background: url('img/launch5/tab.png');
+    background: -webkit-linear-gradient(#575757, #313131); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#575757, #313131); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#575757, #313131); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#575757, #313131); /* Standard syntax (must be last) */
 }
-*/
+.active
+{
+    background: -webkit-linear-gradient(#818181, #535353); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#818181, #535353); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#818181, #535353); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#818181, #535353); /* Standard syntax (must be last) */
+}
 /* Profile activity styling */
 .score-container
 {
@@ -99,6 +108,12 @@
   top: -9px;
   font-size: 20px;
   font-family: Lato;
+}
+div.map
+{
+  width:90%;
+  height: 100%;
+  padding: 5%;
 }
 .bar-logo
 {

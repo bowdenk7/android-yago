@@ -29,15 +29,12 @@ c:\xampp\htdocs\yago\platforms\android\assets\_where-is-www.txt \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\cordova_plugins.js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css \
-c:\xampp\htdocs\yago\platforms\android\assets\www\districts.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\icon.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img \
 c:\xampp\htdocs\yago\platforms\android\assets\www\index.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\js \
 c:\xampp\htdocs\yago\platforms\android\assets\www\lib \
 c:\xampp\htdocs\yago\platforms\android\assets\www\res \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css\index.css \
@@ -133,7 +130,7 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tab Bar.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tap to Redeem in Front of Venue Staff.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Tap to Redeem Outline.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\TopClearOverlay.png \
-c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\Venue Staff.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\venue_staff.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\YagoLogo.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\_ copy.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch6\_.png \
@@ -302,14 +299,6 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\res\screen\ios\screen-iphone-p
 c:\xampp\htdocs\yago\platforms\android\assets\www\res\screen\tizen\README.md \
 c:\xampp\htdocs\yago\platforms\android\assets\www\res\screen\webos\screen-64.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\helper.js \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\index.js \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib\jasmine-1.2.0 \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js \
-c:\xampp\htdocs\yago\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\app.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-blue-basic-theme.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-blue-theme.css \
@@ -318,18 +307,20 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-de
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-purple-theme.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components-sunshine-theme.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles\onsen-css-components.css \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-navigator.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-photos-navigator.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\club-photos.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\clubs.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\maps.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\feeds \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotion-venue-navigator.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotion-venue.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions-navigator.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions.html \
-c:\xampp\htdocs\yago\platforms\android\assets\www\templates\redeem-promotion.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\feeds\club-photos.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\feeds\clubs.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\feeds\maps.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\club-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\club-photos-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\feed-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\promotion-venue-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\promotions-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile\profile.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions\promotion-venue.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions\promotions.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\promotions\redeem-promotion.html \
 c:\xampp\htdocs\yago\platforms\android\ant-build\AndroidManifest.xml \

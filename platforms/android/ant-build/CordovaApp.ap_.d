@@ -37,6 +37,7 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\lib \
 c:\xampp\htdocs\yago\platforms\android\assets\www\res \
 c:\xampp\htdocs\yago\platforms\android\assets\www\styles \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates \
+c:\xampp\htdocs\yago\platforms\android\assets\www\YagoLogo.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\css\index.css \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch1 \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2 \
@@ -68,11 +69,19 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\x.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\Yago.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\YagoLogo.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch2\_.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\atl-map.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\gold-room-atlanta.jpg \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\havana-club.jpg \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\park-bench.jpg \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\part1.jpg \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\party2.jpg \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\party3.jpg \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\StandardCardSize.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\the-ivy.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch3\TopRightCardSize.png \
-c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Clock.png \
-c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Three Dots.png \
-c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\Thumbs Up.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\clock.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\three_dots.png \
+c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\thumbs_up.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch4\YagoLogo.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\20.png \
 c:\xampp\htdocs\yago\platforms\android\assets\www\img\launch5\36.png \
@@ -317,6 +326,7 @@ c:\xampp\htdocs\yago\platforms\android\assets\www\templates\feeds\maps.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\club-navigator.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\club-photos-navigator.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\feed-navigator.html \
+c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\profile-navigator.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\promotion-venue-navigator.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\navigations\promotions-navigator.html \
 c:\xampp\htdocs\yago\platforms\android\assets\www\templates\profile\profile.html \

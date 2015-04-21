@@ -1,14 +1,11 @@
 /* background image */
-/*
 .page--full_bg__background {
     background: url('../img/launch2/Background.png');
 }
-*/
-/*
 .page-full_bg > .navigation-bar {
     background-color: transparent; 
 }
-*/
+
 /* Age verification and Authentication styling */
 .logo-container
 {
@@ -46,7 +43,7 @@
 .tab-icon
 {
   height: 30px;
-  width: 30px;
+  width: 20px;
   margin: 8px 0 auto;
 }
 .tab-bar
@@ -104,6 +101,39 @@
   width:100%;
 }
 /* feed styles*/
+div.clubs-container
+{
+  width: 98%;
+  margin:0 auto;
+  position: relative;
+}
+.club-image-container
+{
+  width:49%;
+  border-radius:10px;
+  margin: 2% auto 0;
+  display: inline-block;
+  background: #fff;
+}
+.club-label
+{
+  text-align: center;
+ background: #fff;
+ width: 100%;
+}
+.club-photos
+{
+  width: 100%;
+}
+div.cross-section
+{
+ text-align: justify;
+ width: 100%;
+}
+.cross-section div {
+  width: 30%;
+  display: inline-block;
+}
  .tab-title
 {
   position: relative;
@@ -114,13 +144,18 @@
 }
 div.map
 {
-  width:90%;
+  width:100%;
   height: 100%;
-  padding: 5%;
 }
 .bar-logo
 {
   padding-top: 10px;
   width: 40px;
   height: 30px;
+}
+/*promotions styles */
+.check-out-promotion
+{
+  width: 50%;
+  margin: 60px auto 0;
 }
